@@ -1,0 +1,415 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+div
+{
+    display: grid;
+    place-items: center;
+}
+h6{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 40px;
+    color: brown;
+}
+h1{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 20px;
+}
+.subsec-1 h3{
+    margin-top: 40px;
+    margin-left: -1%;
+    font-size: 19px;
+}
+.subsec-1 img
+{
+    margin-top: 20px;
+}
+.sec ul li{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.subsec-1 p{
+    margin-top: 20px;
+    margin-left: -34%;
+    font: 1em sans-serif;
+}
+.subsec-2 p{
+    margin-left: 1%;
+    margin-top: 20px;
+    line-height: 1.5;
+    font-size: large;
+}
+.subsec-3 {
+    
+    margin-top: 20px;
+    line-height: 1.5;
+   margin-left: 1%;
+    font-size: large;
+}
+.subsec-4{
+    margin-top: 20px;
+    line-height: 1.5;
+    margin-left: -2%;
+    font-size: large;
+}
+.subsec-5 h3{
+    margin-left:-33%;
+    text-align: left;
+    margin-top: 20px;
+}
+.subsec-6 p{
+    margin-top: 20px;
+    margin-left: -2%;
+    font-size: large;
+}
+.subsec-7 p{
+    margin-top: 20px;
+    font-size: large;
+    margin-left: -3%;
+    line-height: 1.5;
+}
+.subsec-8 p
+{
+    margin-top: 20px;
+    line-height: 1.5;
+    font-size: large;
+    margin-left: -1%; 
+   
+}
+.subsec-9 p
+{
+    margin-top: 20px;
+    line-height: 1.5;
+    font-size: large;
+    margin-left: -1%;
+}
+.subsec-10 img
+{
+    margin-top: 20px;
+}
+.subsec-10 p
+{
+    margin-left: -5%;
+    margin-top: 20px;
+    line-height: 1.5;
+    font-size: large;
+}
+.subsec-11 h3{
+    margin-top: 20px;
+    margin-left: -35%;
+}
+.subsec-12 p{
+    margin-top: 20px;
+    margin-left: 2%;
+    line-height: 1.5;
+    font-size: large;
+}
+.subsec-13 p{
+    margin-top: 20px;
+    margin-left: -20%;
+    font-size: large;
+}
+.subsec-14 nav ul li{
+    margin-top: 20px;
+    margin-left: -400%;
+    list-style-type: square;
+    font-size: large;
+}
+.subsec-15 h3{
+    margin-top: 20px;
+    margin-left: -36%;
+    line-height: 1.5;
+}
+.subsec-16 p{
+    margin-top: 20px;
+    margin-right: 0.1%;
+    font-size: large;
+}
+.subsec-17 p{
+    margin-top: 20px;
+    margin-right: -0.1%;
+    font-size: large;
+}
+.subsec-18 p{
+    margin-top: 20px;
+    margin-right: -0.1%;
+    font-size: large;
+}
+.subsec-19 p{
+    margin-top: 20px;
+    line-height: 1.5;
+    margin-right: 3%;
+    font-size: large;
+}
+.subsec-19 h3{
+    margin-top: 30px;
+    margin-right: 10%;
+}
+.sec-3 .subsec-1 h3 {
+    margin-top: 20px;
+    margin-left: -35%;
+}
+.sec-3 .subsec-1 p{
+    margin-top: 20px;
+    margin-right: 4%;
+    line-height: 1.5;
+    font-size: large;
+}
+.sec-3 .subsec-2 p{
+    margin-top: 20px;
+    margin-right: 31%;
+    line-height: 1.5;
+    font-size: large;
+}
+.sec-3 .subsec-3 p{
+    margin-top: 15px;
+    margin-right: 3%;
+    line-height: 1.5;
+    font-size: large;
+}
+.sec-3 .subsec-4 p{
+    margin-top: 15px;
+    margin-right: -1%;
+    line-height: 1.5;
+    font-size: large;
+}
+.sec-3 .subsec-5 h3{
+    margin-left: -35%;
+}
+.sec-3 .subsec-5 p{
+    margin-left: -1%;
+    margin-top: 20px;
+    line-height: 1.5;
+    font-size: large;
+}
+.sec-3 .subsec-5 img{
+    margin-top: 20px;
+}
+.sec-3 .subsec-6 p{
+    margin-left: -2%;
+    margin-top: 20px;
+    line-height: 1.5;
+    font-size: large;
+
+}
+.sec-3 .subsec-7 p{
+    margin-left: 1%;
+    margin-top: 20px;
+    line-height: 1.5;
+    font-size: large;
+}
+.sec-3 .subsec-8 p{
+    margin-left: 14%;
+    margin-top: 20px;
+    line-height: 1.5;
+    font-size: large;
+}
+.sec-3 .subsec-9 p{
+    margin-right: -1%;
+    margin-top: 20px;
+    line-height: 1.5;
+    font-size: large;
+}
+.sec-3 .subsec-10 h3{
+    margin-left: -30%;
+    line-height: 1.5;
+    margin-top: 20px;
+}
+.sec-3 .subsec-11 p{
+    margin-left: 1%;
+    line-height: 1.5;
+    margin-top: 20px;
+    font-size: large;
+}
+.sec-3 .subsec-12 p{
+    margin-left: -1%;
+    line-height: 20px;
+    margin-top: 1.5;
+    font-size: large;
+}
+.sec-3 .subsec-13 p{
+    margin-left: -4%;
+    margin-top: 20px;
+    line-height: 1.5;
+    font-size: large;
+}
+.sec-3 .subsec-14 ul li{
+    margin-top: 20px;
+    margin-left: -3%;
+    line-height: 1.5;
+    list-style-type: square;
+    font-size: large;
+}
+.sec-3 .subsec-15 p{
+    margin-right: -1%;
+    line-height: 1.5;
+    margin-top: 20px;
+    font-size: large;
+}
+.sec-3 .subsec-15 img{
+    margin-top: 20px;
+}
+.sec-3 .subsec-16 h3{
+    margin-top: 20px;
+    margin-left: -31%;
+    line-height: 1.5;
+    font-size: large;
+}
+.sec-3 .subsec-16 p{
+    margin-top: 20px;
+    margin-left: -1%;
+    line-height: 1.5;
+    font-size: large;
+}
+.sec-3 .subsec-17 h3{
+    margin-top: 20px;
+    margin-left: -43%;
+    line-height: 1.5;
+    font-size: large;
+}
+.sec-3 .subsec-17 p{
+    margin-top: 20px;
+    margin-right: -1%;
+    line-height: 1.5;
+    font-size: large;
+}
+.sec-3 .subsec-18 p{
+    margin-top: 20px;
+    margin-right: 1%;
+    line-height: 1.5;
+    font-size: large;
+}
+.sec-3 .subsec-19 p{
+    margin-top: 20px;
+    margin-right: 1%;
+    line-height: 1.5;
+    font-size: large;
+}
+.sec-3 .subsec-20 h3{
+    margin-right: -8%;
+    margin-top: 20px;
+}
+.sec-3 .subsec-21 h3{
+    margin-top: 20px;
+    margin-left: -38%;
+}
+.sec-3 .subsec-21 p{
+    margin-top: 20px;
+    margin-right: -1%;
+    line-height: 1.5;
+    font-size: large;
+}
+.sec-3 .subsec-22 p{
+    margin-top: 20px;
+    line-height: 1.5;
+    margin-right: 2%;
+    font-size: large;
+}
+.sec-3 .subsec-22 img{
+    margin-top: 20px;
+}
+.sec-3 .subsec-23 p{
+    margin-top: 20px;
+}
+.sec-3 .subsec-24 p{
+    margin-top: 20px;
+    line-height: 1.5;
+    margin-right: -1%;
+    font-size: large;
+}
+.sec-3 .subsec-25 p{
+    margin-top: 20px;
+    line-height: 1.5;
+    margin-right: -3%;
+    font-size: large;
+}
+.sec-3 .subsec-26 h3{
+    margin-top: 20px;
+    margin-right: 25%;
+}
+.sec-3 .subsec-26 p{
+    margin-top: 20px;
+    margin-right: 3%;
+    line-height: 1.5;
+    font-size: large;
+}
+.sec-3 .subsec-27 p{
+    margin-top: 20px;
+    margin-right: -2%;
+    line-height: 1.5;
+    font-size: large;
+}
+.sec-3 .subsec-27 img{
+    margin-top: 20px;
+}
+.sec-3 .subsec-28 p{
+    margin-top: 20px;
+    margin-right: 07%;
+}
+.sec-3 .subsec-29 p{
+    margin-top: 20px;
+    margin-right: 8%;
+    line-height: 1.5;
+}
+  .container img{
+    padding-left: 330%;
+    float: left;
+}
+.container img:hover{
+    color: rgb(12, 231, 195);
+    margin-top: 20px;
+}
+.container-1 h5{
+    font-size: large;
+    margin-top: 20px;
+    margin-left: -5%;
+}
+.container-1 img{
+    border-radius: 50%;
+    margin-right: 75%;
+}
+.container-1 h2{
+    margin-top: 20px;
+    margin-left: -40%;
+}
+.container-2{
+    margin-top: 20px;
+}
+.container-3 h5{
+    margin-top: 20px;
+    margin-left: -47%;
+}
+/* .container-4{
+    padding-left: 23%;
+    float: left;
+} */
+.container-4 .sub-1{
+    margin-top: 20px;
+    border-radius: 100%;
+    border-left: 10%;
+}
+.container-4 .sub-2{
+    margin-top: 20px;
+    line-height: 1.5;
+    font-size: large;
+    border-left: 20%;
+}
+.container-4 .sub-3 h2{
+    margin-top: 20px;
+    line-height: i.5;
+    align-items: center;
+    justify-content: center;
+    list-style-type: georgian;
+}
+.sub-4{
+    margin-top: 20px;
+}
+.sub-5{
+    margin-top: 80px;
+}
